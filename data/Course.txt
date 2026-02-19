@@ -1,0 +1,10 @@
+PHY101,Physics Fundamentals,100
+ECO101,Microeconomics,100
+BIO101,Biology Introduction,100
+CS101,Java Programming,100
+MATH101,Calculus I,100
+HIS101,World History,100
+CHE101,Chemistry Basics,100
+STAT101,Statistics,100
+ART101,Art Appreciation,100
+ENG101,English Composition,100
