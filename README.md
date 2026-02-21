@@ -5,7 +5,7 @@ A console-based Java application for managing student grades, calculating statis
 ## 📋 Features
 
 ### Student Management
-- Add new students with unique ID, name, and contact information
+- Add new students with unique ID, name.
 - View all registered students
 - Search students by ID or name
 - Update student information
